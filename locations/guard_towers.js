@@ -551,8 +551,8 @@ guard_towers = [
     y: 3846,
     creator: 'Yela'
   }, {
-    x: 501,
-    y: 438,
+    x: 491,
+    y: 439,
     creator: 'Exor'
   }, {
     x: 429,
@@ -825,5 +825,105 @@ guard_towers = [
     x: 990,
     y: 586,
     creator: 'BrokSonic'
+  }, {
+    x: 3508,
+    y: 1694,
+    creator: 'BobBarley'
+  }, {
+    x: 1116,
+    y: 483,
+    creator: 'Heroic'
+  }, {
+    x: 904,
+    y: 1228,
+    creator: 'Thalos'
+  }, {
+    x: 951,
+    y: 1231,
+    creator: 'Thalos'
+  }, {
+    x: 1013,
+    y: 1278,
+    creator: 'Thalos'
+  }, {
+    x: 480,
+    y: 298,
+    creator: 'Hotte'
+  }, {
+    x: 2680,
+    y: 957,
+    creator: 'Summertyne'
+  }, {
+    x: 422,
+    y: 335,
+    creator: 'Splarmus'
+  }, {
+    x: 1732,
+    y: 775,
+    creator: 'DieDae'
+  }, {
+    x: 3213,
+    y: 3634,
+    creator: 'Broksonic'
+  }, {
+    x: 3091,
+    y: 3652,
+    creator: 'Broksonic'
+  }, {
+    x: 869,
+    y: 2281,
+    creator: 'Opene, Snidor'
+  }, {
+    x: 825,
+    y: 1179,
+    creator: 'Tranderas'
+  }, {
+    x: 1659,
+    y: 1067,
+    creator: 'Durtak'
+  }, {
+    x: 1451,
+    y: 755,
+    creator: 'Emass'
+  }, {
+    x: 3565,
+    y: 1830,
+    creator: 'Esroh'
+  }, {
+    x: 3515,
+    y: 1830,
+    creator: 'Esroh'
+  }, {
+    x: 3465,
+    y: 1830,
+    creator: 'Esroh'
+  }, {
+    x: 3415,
+    y: 1830,
+    creator: 'Esroh'
+  }, {
+    x: 3365,
+    y: 1830,
+    creator: 'Esroh'
+  }, {
+    x: 3315,
+    y: 1834,
+    creator: 'Esroh'
+  }, {
+    x: 1338,
+    y: 1702,
+    creator: 'Elfin'
+  }, {
+    x: 1435,
+    y: 1826,
+    creator: 'Elfin'
+  }, {
+    x: 1506,
+    y: 1791,
+    creator: 'Havoc'
+  }, {
+    x: 950,
+    y: 414,
+    creator: 'Dominikk'
   }
 ];

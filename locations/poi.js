@@ -191,5 +191,49 @@ poi = [
     y: 1305,
     type: 'bridge',
     description: 'Constructed by Xloey'
+  }, {
+    name: 'BG Tunnel - South Entrance',
+    x: 1170,
+    y: 2741,
+    description: 'Constructed by BG Town residents & Yela'
+  }, {
+    name: 'Littlehub to Claypit Bridge #1',
+    x: 862, 
+    y: 1234,
+    type: 'bridge',
+    description: 'Constructed by Thalos'
+  }, {
+    name: 'Colossus of Fo',
+    x: 1177,
+    y: 853,
+    unique: false,
+    type: 'statue',
+    description: 'Constructed by Indalo'
+  }, {
+    name: 'Littlehub to Claypit Bridge #2',
+    x: 927, 
+    y: 1234,
+    type: 'bridge',
+    description: 'Constructed by Thalos'
+  }, {
+    name: 'Path of Knowledge Tile',
+    x: 1144,
+    y: 913,
+    unique: false
+  }, {
+    name: 'Path of Love Tile',
+    x: 2982,
+    y: 3565,
+    unique: false
+  }, {
+    name: 'Path of Love Tile',
+    x: 1491,
+    y: 1817,
+    unique: false
+  }, {
+    name: 'Path of Knowledge Tile',
+    x: 1437,
+    y: 1817,
+    unique: false
   }
 ];
